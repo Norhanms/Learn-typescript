@@ -14,4 +14,6 @@ To install typescript globally in your machine type in in the console
 
 to check for it is installed correctly, type in
 ```
-> tsc --v
+> tsc -v
+
+```
