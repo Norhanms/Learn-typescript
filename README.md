@@ -1,1 +1,1 @@
-# Learn-typescript
+# Learn Typescript from freecodecamp course
