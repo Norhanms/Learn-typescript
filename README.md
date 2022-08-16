@@ -26,3 +26,22 @@ This process is called transpiling.
 >tsc main.ts
 
 ```
+
+## Watching the changes in the main.ts file
+
+```
+> tsc main.ts -w
+
+```
+
+## Creating config json file
+
+Create a json file and name it 'tsconfig' so that typescript can now know that its configrations are in that file
+Create folder 'src' for the source files (ex. html, main.ts)
+and type the following command for running 'main.ts' and watching it
+
+```
+
+> tsc -w
+
+```
