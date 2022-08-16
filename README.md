@@ -1,5 +1,4 @@
-# Learn Typescript from freecodecamp course
-
+# Learn Typescript from freecodecamp course <img  width='30px' src='https://github.com/edent/SuperTinyIcons/blob/master/images/svg/typescript.svg' alt='typescript'/>
 ## What is typescript?
 
 It is an extenstion for javascript and not a new programming language.
