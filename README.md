@@ -45,3 +45,6 @@ and type the following command for running 'main.ts' and watching it
 > tsc -w
 
 ```
+## lessons
+
+1. [Typescript basics](https://github.com/Norhanms/Learn-typescript/tree/main/src#typescript-basics)
