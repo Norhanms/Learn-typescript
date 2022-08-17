@@ -6,7 +6,7 @@ In typescript you have to define the type of every variable you declare or what 
 > Remember, typescript add features to javascript to detect the errors related to data types early and then run correctly.
 For example, declare a varible my_name which is a string.
 
-```
+```typescript
 let my_name:string="Nora";
 ```
 
