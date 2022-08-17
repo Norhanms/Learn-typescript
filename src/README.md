@@ -9,17 +9,18 @@ For example, declare a varible my_name which is a string.
 ```
 let my_name:string="Nora";
 ```
+
 this variable can not accept any other type from now and then, try to change its value to a number.
 
-```
+```typescript
  let my_name:string=1;
 
 ```
 
 It will raise an error,
 
-```
-<span style="color: red">error</span> TS2322: Type 'number' is not assignable to type 'string'.
+```typescript
+error TS2322: Type 'number' is not assignable to type 'string'.
 
 13  let my_name:string=1;
 ```
