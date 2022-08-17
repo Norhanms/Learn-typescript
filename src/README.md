@@ -19,7 +19,7 @@ this variable can not accept any other type from now and then, try to change its
 It will raise an error,
 
 ```
-<span style="color: red">color-code}</span> TS2322: Type 'number' is not assignable to type 'string'.
+<span style="color: red">error</span> TS2322: Type 'number' is not assignable to type 'string'.
 
 13  let my_name:string=1;
 ```
