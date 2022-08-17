@@ -13,13 +13,13 @@ To install typescript globally in your machine type in the following command in 
 > npm install -g typescript
 ```
 
-To check for it is installed correctly, type in
+To check for it is installed correctly, type in the following command to see its version
 
 ```
 > tsc -v
 
 ```
-## transpiling TS files into JS
+## Transpiling TS files into JS
 We need to convert ts files into js inorder to be seen by the browser.
 This process is called transpiling.
 ```
